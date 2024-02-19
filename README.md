@@ -15,3 +15,11 @@ and load our data on Azure Data Lake storage so first we will load the raw data 
 # Architecture
 
 ![Screenshot 2024-02-19 at 20 48 02](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/c831b105-d65d-4081-83e5-2bfc4be8d401)
+
+
+# Data
+
+We will take the Olympic data that is available on Kagel (see files in the repository) or in this link: 
+
+https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
+
