@@ -143,3 +143,43 @@ and we copy it in the notebook from Databricks:
 ![Screenshot 2024-02-19 at 23 53 52](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/5877bbb9-f37c-401a-aca8-5774d3932c49)
 
 see the code in the repository file: Tokyo Olympic Transformation.ipynb
+
+
+We go to Azure Synapse Analytics:
+
+<img width="786" alt="Screenshot 2024-02-20 at 00 15 00" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/6a443038-c1f8-43b6-8ef0-53deb89c67cb">
+
+<img width="590" alt="Screenshot 2024-02-20 at 00 15 46" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/83379269-fcff-4c6f-b4fe-cba751f1218f">
+
+we go to Synapse Studio:
+
+<img width="583" alt="Screenshot 2024-02-20 at 00 16 44" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/d0eeb894-cc4a-44d1-945f-2c644e5decaf">
+
+we create a Lake database:
+
+<img width="873" alt="Screenshot 2024-02-20 at 00 21 28" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/49432540-cc4b-4a0c-acf9-6324f59c6e5b">
+
+we create the athletes Table:
+
+<img width="501" alt="Screenshot 2024-02-20 at 00 21 58" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/d20088c6-2a0d-4cff-bb26-cc36924e533b">
+
+we do the same for the rest:
+
+<img width="269" alt="Screenshot 2024-02-20 at 00 23 30" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/cb036d7d-6196-48a8-ba1a-d9891d8afdb1">
+
+
+<img width="509" alt="Screenshot 2024-02-20 at 00 25 02" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/95e61bd8-4ac0-497e-b293-f8a198f59241">
+
+we create a SQL script:
+
+<img width="489" alt="Screenshot 2024-02-20 at 00 26 19" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/15d26111-cdc6-43df-b17d-dfa759258922">
+
+<img width="562" alt="Screenshot 2024-02-20 at 00 28 36" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/bea7026d-97d8-4d20-85ba-68272d2d078f">
+
+
+<img width="556" alt="Screenshot 2024-02-20 at 00 30 10" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/db849d6f-4340-4be0-aa88-59702b350407">
+
+you have charts to understand better the data:
+
+
+<img width="568" alt="Screenshot 2024-02-20 at 00 31 01" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/1b8571ab-86d3-4948-95b2-38c5dd4b0db9">
