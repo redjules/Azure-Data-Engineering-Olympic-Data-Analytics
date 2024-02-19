@@ -92,7 +92,7 @@ now it's in our raw data directory:
 
 ![Screenshot 2024-02-19 at 22 59 17](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/2e869a8b-f07b-47e2-9282-b918675b85f6)
 
-we repeat the process for the rest of csvs: Coaches, EntriesGender, Medals, Teams:
+we repeat the process for the rest of CSVs: Coaches, EntriesGender, Medals, Teams:
 
 We preview the data for Coaches:
 
@@ -102,3 +102,44 @@ we connect the 2 datas and validate:
 
 ![Screenshot 2024-02-19 at 23 07 34](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/b2e79400-1b8c-4f6d-818f-0289c0605cac)
 
+now Coaches.csv is in the Raw Data directory:
+
+![Screenshot 2024-02-19 at 23 16 31](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/ef804064-9379-43be-ba1c-a0598108a57a)
+
+![Screenshot 2024-02-19 at 23 30 21](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/1b2a3849-f840-4520-9603-6bee417b6970)
+
+we have the 5 CSVs in Raw data:
+
+![Screenshot 2024-02-19 at 23 35 41](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/a3630f0c-9db6-49f4-bc57-0fd6c64d2e7c)
+
+we create a new Azure Databricks workspace:
+
+![Screenshot 2024-02-19 at 23 38 06](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/a83b876b-4766-4d71-8f10-1807a91227d0)
+
+We Launch the Workspace:
+
+<img width="190" alt="Screenshot 2024-02-19 at 23 40 41" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/7a97be1e-260b-4e5f-9d90-99600483b3e4">
+
+<img width="616" alt="Screenshot 2024-02-19 at 23 41 05" src="https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/8f7af256-0ed4-435c-8713-f5a0a62b161f">
+
+We create Compute:
+
+![Screenshot 2024-02-19 at 23 43 51](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/ded27080-16f2-4163-8397-052444c16efa)
+
+we open a new notebook:
+
+![Screenshot 2024-02-19 at 23 47 01](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/c6c858fb-89b7-4cff-9984-784561418a8e)
+
+we go to App registrations and create new:
+
+![Screenshot 2024-02-19 at 23 49 24](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/c5d10ec7-e39b-4a97-a528-6dd1817b8f2a)
+
+we copy the Application ID and the Directory ID in a notepad.
+
+We go to Certificates and create New client secret. we copy the secret key into a notepad.
+
+and we copy it in the notebook from Databricks:
+
+![Screenshot 2024-02-19 at 23 53 52](https://github.com/redjules/Azure-Data-Engineering-Olympic-Data-Analytics/assets/106017493/5877bbb9-f37c-401a-aca8-5774d3932c49)
+
+see the code in repository file.
